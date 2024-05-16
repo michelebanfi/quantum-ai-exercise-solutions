@@ -1,12 +1,15 @@
-# Solutions of Quantum Simulations labs
+# Solutions of Quantum Simulations & AI Models for Physics labs
 
 Contribute and update README.md
 
-- [x] Grover
-- [ ] Quantum SVM 
+- **Ai Models**
+  -[x] Reinforcement Learning
+- **Quantum Simulations**
+  - [x] Grover
+  - [ ] Quantum SVM 
 
 
-Fot those who dont know ``git`` here the basics commands:
+Fot those who don't know ``git`` here the basics commands:
 
 ```bash
 git add -A
