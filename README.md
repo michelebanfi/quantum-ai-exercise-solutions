@@ -3,7 +3,7 @@
 Contribute and update README.md
 
 - **Ai Models**
-  -[x] Reinforcement Learning
+  - [x] Reinforcement Learning
 - **Quantum Simulations**
   - [x] Grover
   - [ ] Quantum SVM 
